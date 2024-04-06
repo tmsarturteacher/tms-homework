@@ -1,0 +1,12 @@
+{
+    "name": "artur/tms-homework",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app",
+            "App\\Controller\\": "app/controllers"
+        }
+    },
+    "require": {
+        "eftec/bladeonehtml": "^2.4"
+    }
+}
